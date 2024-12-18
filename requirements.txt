@@ -1,0 +1,10 @@
+# requirements.txt
+yfinance==0.2.36
+akshare==1.11.77
+aiohttp==3.9.1
+pandas==2.1.4
+beautifulsoup4==4.12.2
+feedparser==6.0.10
+python-dotenv==1.0.0
+fastapi>=0.68.0
+uvicorn>=0.15.0
